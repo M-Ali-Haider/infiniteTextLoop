@@ -56,7 +56,7 @@ export default function InfiniteText() {
       <div className={styles.background}>
         <div className={styles.shader}></div>
         <Image
-          src={`/images/bgdark.jpg`}
+          src={`/infiniteTextLoop/images/bgdark.jpg`}
           fill={true}
           alt='background image'
         />
